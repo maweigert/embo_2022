@@ -25,6 +25,7 @@ In the two subfolder, there are two workflows for CARE (image restoration) and s
 
 * Task 1: CARE workflow for restoration of noisy and downsampled images. Find the notebook(s) in subfolder `care`.
 * Task 2: stardist workflow in 2D for segmentation of nuclei. Find the notebook(s) in subfolder `stardist` (choose the 2D one).
+* Task 2b: Stardist Colab:  https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb
 * Task 3: Apply the trained stardist model to a test image via anapri and the stardist plugin.
 
 
