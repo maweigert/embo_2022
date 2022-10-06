@@ -20,5 +20,6 @@ dependencies:
     - csbdeep
     - stardist
     - stardist-napari
+    - imageio_ffmpeg    
     - gputools
     - napari[all]
