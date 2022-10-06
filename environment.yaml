@@ -1,0 +1,24 @@
+name: stardist
+channels:
+  - defaults
+  - nvidia
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - tqdm
+  - ipython
+  - tensorboard
+  - cudatoolkit=11.*
+  - cudnn
+  - pip
+  - pip:
+    - tensorflow
+    - csbdeep
+    - stardist
+    - stardist-napari
+    - gputools
+    - napari[all]
