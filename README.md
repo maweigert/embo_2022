@@ -4,7 +4,7 @@
 
 1. Clone this repo:
 
-  `git clone git@github.com:maweigert/embo_2022.git`
+  `git clone https://github.com/maweigert/embo_2022.git`
 
 2. Install the conda environment 
 
